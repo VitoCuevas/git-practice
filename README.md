@@ -1,1 +1,1 @@
-Read Me content should be here.
+This is just for fun. 
